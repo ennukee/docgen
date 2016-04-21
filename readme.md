@@ -1,6 +1,6 @@
 # DOCGEN (Documentation Generator)
 
-Work in progress mini-project that will generate a large HTML/Markdown file containing documentation of all methods / classes in a project directory (for any supported language)
+Work in progress mini-project that will generate a large HTML/Markdown file containing documentation of all methods / classes in a project directory (for any supported language). Similar to how [ReadTheDocs](https://readthedocs.org/) works.
 
 ### TO-DO
 
